@@ -8,11 +8,11 @@ My underlying hypothesis is that the borough with the most residential household
 
 The datasets I used are: 
 
-https://data.ny.gov/Government-Finance/New-York-State-ZIP-Codes-County-FIPS-Cross-Referen/juva-r6g2/data .                  
+https://data.ny.gov/Government-Finance/New-York-State-ZIP-Codes-County-FIPS-Cross-Referen/juva-r6g2/data                   
 This dataset includes the borough of zip codes in NYC. 
 
 
-https://data.cityofnewyork.us/w/uedp-fegm/25te-f2tw?cur=zh_ETNBDGVA&from=root .                                                                        
+https://data.cityofnewyork.us/w/uedp-fegm/25te-f2tw?cur=zh_ETNBDGVA&from=root                                                                         
 This dataset shows gas usage of households/industries during 2010 
 
 
